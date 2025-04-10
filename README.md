@@ -9,7 +9,7 @@ SCPVM - Spatial Coherence Parametric Virtual Miking
 
 ## Installation
 
-git clone https://github.com/SilvioAttolini/SCPVM.git
+git clone https://github.com/SilvioAttolini/SCPVM_2025.git
 
 ## Run
 Execute the file "demo_parametric_vm.m"
